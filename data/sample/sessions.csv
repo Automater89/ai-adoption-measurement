@@ -1,0 +1,35 @@
+session_id,session_date,session_name,site,facilitator,registered_count,attended_count,completed_count,duration_minutes,planned
+S001,2026-01-08,Copilot Basics - Ann Arbor,Ann Arbor,W. Shelton,32,30,29,60,Y
+S002,2026-01-10,Copilot Basics - Detroit,Detroit,W. Shelton,28,25,24,60,Y
+S003,2026-01-15,Copilot for Outlook,Ann Arbor,W. Shelton,35,33,32,45,Y
+S004,2026-01-17,Copilot for Teams Meetings,Detroit,W. Shelton,30,28,28,45,Y
+S005,2026-01-22,Prompt Writing Workshop,Ann Arbor,W. Shelton,40,38,36,90,Y
+S006,2026-01-24,Copilot Basics - Flint,Flint,W. Shelton,20,18,17,60,Y
+S007,2026-01-29,Copilot for Word and Excel,Ann Arbor,W. Shelton,38,35,34,60,Y
+S008,2026-01-31,Copilot for Word and Excel,Detroit,W. Shelton,35,32,31,60,Y
+S009,2026-02-05,Advanced Prompt Engineering,Ann Arbor,W. Shelton,25,24,24,90,Y
+S010,2026-02-07,Copilot Basics - Lansing,Lansing,W. Shelton,22,20,19,60,Y
+S011,2026-02-12,Copilot for Outlook,Detroit,W. Shelton,30,29,28,45,Y
+S012,2026-02-14,Prompt Writing Workshop,Flint,W. Shelton,18,16,15,90,Y
+S013,2026-02-19,AI Ethics and Responsible Use,Ann Arbor,W. Shelton,45,42,41,60,Y
+S014,2026-02-21,Copilot for Teams Meetings,Lansing,W. Shelton,20,19,19,45,Y
+S015,2026-02-26,Copilot Basics - Grand Rapids,Grand Rapids,W. Shelton,28,26,25,60,Y
+S016,2026-02-28,Advanced Prompt Engineering,Detroit,W. Shelton,22,21,21,90,Y
+S017,2026-03-05,Copilot for Word and Excel,Lansing,W. Shelton,25,23,22,60,Y
+S018,2026-03-07,Manager Enablement: AI for Teams,Ann Arbor,W. Shelton,30,28,27,60,Y
+S019,2026-03-12,Copilot Basics - Kalamazoo,Kalamazoo,W. Shelton,18,17,17,60,Y
+S020,2026-03-14,Prompt Writing Workshop,Grand Rapids,W. Shelton,22,21,20,90,Y
+S021,2026-03-19,AI Ethics and Responsible Use,Flint,W. Shelton,20,19,18,60,Y
+S022,2026-03-21,Copilot for Outlook,Grand Rapids,W. Shelton,25,24,23,45,Y
+S023,2026-03-26,Manager Enablement: AI for Teams,Detroit,W. Shelton,28,26,25,60,Y
+S024,2026-03-28,Advanced Prompt Engineering,Ann Arbor,W. Shelton,20,20,20,90,Y
+S025,2026-04-02,Copilot Basics - Saginaw,Saginaw,W. Shelton,15,14,13,60,Y
+S026,2026-04-04,Copilot for Teams Meetings,Grand Rapids,W. Shelton,22,21,21,45,Y
+S027,2026-04-09,Prompt Writing Workshop,Ann Arbor,W. Shelton,38,36,35,90,Y
+S028,2026-04-11,Copilot for Word and Excel,Grand Rapids,W. Shelton,25,24,23,60,Y
+S029,2026-04-16,AI Ethics and Responsible Use,Kalamazoo,W. Shelton,16,15,15,60,Y
+S030,2026-04-18,Manager Enablement: AI for Teams,Lansing,W. Shelton,20,19,19,60,Y
+S031,2026-04-23,Advanced Prompt Engineering,Grand Rapids,W. Shelton,18,17,17,90,Y
+S032,2026-04-25,Copilot Basics - Jackson,Jackson,W. Shelton,12,11,11,60,Y
+S033,2026-04-30,Prompt Writing Workshop,Kalamazoo,W. Shelton,16,15,14,90,Y
+S034,2026-05-02,Copilot for Outlook,Saginaw,W. Shelton,14,13,13,45,Y

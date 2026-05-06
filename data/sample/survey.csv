@@ -1,0 +1,31 @@
+response_id,session_id,session_date,overall_rating,would_recommend,most_useful,improvement_suggestion,confidence_before,confidence_after
+R001,S001,2026-01-08,3,Y,Prompt examples for real tasks,More time for hands-on practice,2,4
+R002,S001,2026-01-08,3,Y,The live demo in Outlook,Nothing I can think of,2,4
+R003,S001,2026-01-08,2,Y,Seeing what Copilot can actually do,Would like more role-specific examples,1,3
+R004,S001,2026-01-08,3,Y,The Q&A section,More sessions please,3,5
+R005,S001,2026-01-08,3,Y,Prompt writing tips,Longer session,2,4
+R006,S002,2026-01-10,3,Y,Teams meeting summary demo,Nothing,2,4
+R007,S002,2026-01-10,2,N,General overview,Session was too short to go deep,1,2
+R008,S002,2026-01-10,3,Y,Learning how to write prompts,More advanced topics,3,5
+R009,S003,2026-01-15,3,Y,Copilot in Outlook for email drafting,Would love a cheat sheet,2,4
+R010,S003,2026-01-15,3,Y,The draft email demo,Nothing,2,4
+R011,S003,2026-01-15,3,Y,Summarize email thread feature,More time,1,4
+R012,S004,2026-01-17,2,Y,Meeting recap feature,Audio quality in room was poor,2,3
+R013,S004,2026-01-17,3,Y,Action item extraction from meetings,Make it longer,3,5
+R014,S005,2026-01-22,3,Y,Learning the structure of a good prompt,Practice exercises,2,4
+R015,S005,2026-01-22,3,Y,Hands-on prompt writing time,Nothing,3,5
+R016,S005,2026-01-22,3,Y,Seeing bad prompts vs good prompts,More examples for finance,1,4
+R017,S006,2026-01-24,3,Y,Everything was new and useful,Nothing,1,3
+R018,S006,2026-01-24,2,Y,The basics overview,Would like a follow-up session,2,3
+R019,S007,2026-01-29,3,Y,Excel formula generation with Copilot,More Excel examples,2,5
+R020,S007,2026-01-29,3,Y,Word document drafting,Nothing,3,4
+R021,S008,2026-01-31,3,Y,Seeing Copilot draft a full document,A job aid to take back,2,4
+R022,S009,2026-02-05,3,Y,Chain prompting technique,Harder examples,3,5
+R023,S009,2026-02-05,3,Y,System prompting concepts,Would like a certification,4,5
+R024,S010,2026-02-07,3,Y,Learning what Copilot can do in Teams,Nothing,1,3
+R025,S010,2026-02-07,2,Y,General overview,Would like hands-on lab,1,2
+R026,S011,2026-02-12,3,Y,Focused email use cases,Nothing,3,5
+R027,S012,2026-02-14,3,Y,Writing prompts for our actual job tasks,Job aid handout,2,4
+R028,S013,2026-02-19,3,Y,Understanding what not to put in AI tools,More policy clarity from leadership,2,4
+R029,S013,2026-02-19,3,Y,Data sensitivity guidance,Nothing,3,4
+R030,S013,2026-02-19,2,Y,The responsible use examples,Clearer org policy documentation,2,3
