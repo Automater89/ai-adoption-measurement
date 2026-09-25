@@ -1,0 +1,4 @@
+session_id,session_date,session_name,site,facilitator,registered_count,attended_count,completed_count,duration_minutes,planned
+# Instructions: One row per session. planned = Y/N (was this session in the original program plan)
+# session_date format: YYYY-MM-DD
+# completed_count: participants who stayed for the full session

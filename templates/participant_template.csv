@@ -1,0 +1,6 @@
+participant_id,employee_id,session_id,session_date,department,site,role_level,voluntary,completed_session,prior_sessions_attended
+# Instructions: One row per participant per session attended.
+# voluntary: Y = self-registered, N = manager-assigned
+# completed_session: Y = stayed full session, N = left early or did not attend after registering
+# prior_sessions_attended: count of sessions this employee attended BEFORE this one (0 for first session)
+# role_level: Individual Contributor / Manager / Senior Leader / Executive

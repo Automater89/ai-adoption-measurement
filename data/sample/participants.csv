@@ -1,0 +1,31 @@
+participant_id,employee_id,session_id,session_date,department,site,role_level,voluntary,completed_session,prior_sessions_attended
+P0001,E1042,S001,2026-01-08,Finance,Ann Arbor,Individual Contributor,Y,Y,0
+P0002,E1107,S001,2026-01-08,HR,Ann Arbor,Individual Contributor,Y,Y,0
+P0003,E1203,S001,2026-01-08,IT,Ann Arbor,Manager,N,Y,0
+P0004,E1315,S001,2026-01-08,Operations,Ann Arbor,Individual Contributor,Y,Y,0
+P0005,E1422,S001,2026-01-08,Finance,Ann Arbor,Individual Contributor,N,Y,0
+P0006,E1531,S001,2026-01-08,Legal,Ann Arbor,Manager,Y,Y,0
+P0007,E1640,S001,2026-01-08,HR,Ann Arbor,Individual Contributor,Y,Y,0
+P0008,E1755,S001,2026-01-08,IT,Ann Arbor,Individual Contributor,Y,Y,0
+P0009,E1860,S001,2026-01-08,Operations,Ann Arbor,Senior Leader,N,Y,0
+P0010,E1042,S003,2026-01-15,Finance,Ann Arbor,Individual Contributor,Y,Y,1
+P0011,E2001,S002,2026-01-10,Finance,Detroit,Individual Contributor,Y,Y,0
+P0012,E2102,S002,2026-01-10,HR,Detroit,Manager,Y,Y,0
+P0013,E2203,S002,2026-01-10,Operations,Detroit,Individual Contributor,N,Y,0
+P0014,E2301,S002,2026-01-10,IT,Detroit,Individual Contributor,Y,Y,0
+P0015,E2402,S002,2026-01-10,Finance,Detroit,Individual Contributor,Y,N,0
+P0016,E2001,S004,2026-01-17,Finance,Detroit,Individual Contributor,Y,Y,1
+P0017,E2001,S008,2026-01-31,Finance,Detroit,Individual Contributor,Y,Y,2
+P0018,E3001,S005,2026-01-22,HR,Ann Arbor,Individual Contributor,Y,Y,0
+P0019,E3102,S005,2026-01-22,Legal,Ann Arbor,Manager,Y,Y,0
+P0020,E3203,S005,2026-01-22,Finance,Ann Arbor,Individual Contributor,N,Y,0
+P0021,E3001,S007,2026-01-29,HR,Ann Arbor,Individual Contributor,Y,Y,1
+P0022,E3001,S009,2026-02-05,HR,Ann Arbor,Individual Contributor,Y,Y,2
+P0023,E4001,S006,2026-01-24,Operations,Flint,Individual Contributor,Y,Y,0
+P0024,E4102,S006,2026-01-24,HR,Flint,Individual Contributor,N,Y,0
+P0025,E4203,S006,2026-01-24,Finance,Flint,Manager,Y,Y,0
+P0026,E5001,S010,2026-02-07,IT,Lansing,Individual Contributor,Y,Y,0
+P0027,E5102,S010,2026-02-07,Finance,Lansing,Individual Contributor,Y,Y,0
+P0028,E5203,S010,2026-02-07,HR,Lansing,Manager,N,N,0
+P0029,E5001,S014,2026-02-21,IT,Lansing,Individual Contributor,Y,Y,1
+P0030,E5001,S017,2026-03-05,IT,Lansing,Individual Contributor,Y,Y,2

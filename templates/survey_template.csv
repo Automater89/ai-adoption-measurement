@@ -1,0 +1,6 @@
+response_id,session_id,session_date,overall_rating,would_recommend,most_useful,improvement_suggestion,confidence_before,confidence_after
+# Instructions: One row per survey response.
+# overall_rating: 1 (Needs improvement), 2 (Good), 3 (Excellent)
+# would_recommend: Y / N
+# confidence_before and confidence_after: 1-5 scale
+# Keep responses anonymous - no employee_id column
