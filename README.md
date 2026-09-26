@@ -2,11 +2,10 @@
 
 An open-source framework for measuring whether AI tool adoption is actually working — not just whether people showed up.
 
-Built from real enterprise AI enablement experience. Designed for any organization rolling out Microsoft Copilot, ChatGPT Enterprise, or similar AI tools and needing a structured way to measure impact beyond license utilization.
+Informed by my work on enterprise learning and Copilot enablement. Designed for any organization rolling out Microsoft Copilot, ChatGPT Enterprise, or similar AI tools that wants a structured way to measure adoption beyond license counts. The framework and sample data are a portfolio project, not results from an employer.
 
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/Automater89/ai-adoption-measurement)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Portfolio](https://img.shields.io/badge/portfolio-Agent%20Showcase-teal)](https://automater89.github.io/Agent-Showcase/)
 
 ---
 
@@ -130,9 +129,9 @@ python src/reporter.py --output data/outputs/
 ================================================
 AI ADOPTION HEALTH REPORT
 ================================================
-Program          : Copilot Enablement Initiative
-Reporting Period : Q1 2026
-Generated        : 2026-05-06
+Program          : Sample Program (synthetic data)
+Reporting Period : Sample Quarter
+Generated        : Sample run
 ================================================
 
 OVERALL ADOPTION HEALTH SCORE: 78 / 100  [Strong]
@@ -144,22 +143,23 @@ DIMENSION SCORES
   Momentum     : 76 / 100
 
 KEY METRICS
-  Total unique participants   : 1,019
-  Session completion rate     : 90.4%     [Target: 85%]  PASS
-  Voluntary attendance rate   : 68.2%     [Target: 60%]  PASS
-  CSAT score                  : 2.91/3.0  [Target: 2.8]  PASS
-  Skill conversion rate       : 72.1%     [Target: 70%]  PASS
-  YoY voluntary learning hrs  : +380%     [Target: +50%] PASS
+  Total unique participants   : 640
+  Session completion rate     : 88.0%     [Target: 85%]  PASS
+  Voluntary attendance rate   : 63.5%     [Target: 60%]  PASS
+  CSAT score                  : 2.84/3.0  [Target: 2.8]  PASS
+  Skill conversion rate       : 71.0%     [Target: 70%]  PASS
+  YoY voluntary learning hrs  : +60%      [Target: +50%] PASS
 
 ATTENTION AREAS
-  Feature adoption rate       : 54.3%     [Target: 65%]  BELOW TARGET
-  Repeat attendance rate      : 41.0%     [Target: 50%]  BELOW TARGET
+  Feature adoption rate       : 58.0%     [Target: 65%]  BELOW TARGET
+  Repeat attendance rate      : 44.0%     [Target: 50%]  BELOW TARGET
 
 PRIORITY ACTION
   Increase feature adoption through 30-day post-training nudge
   campaign and manager accountability check-in.
 ================================================
 ```
+All numbers above come from synthetic sample data. They are not results from any real program.
 
 ---
 
@@ -189,20 +189,15 @@ PRIORITY ACTION
 - Add Power BI template (.pbit) connected to sample CSVs
 - Record Loom walkthrough
 - Publish methodology write-up on LinkedIn
-- Link to Agent Showcase: https://automater89.github.io/Agent-Showcase/
+- Link from the portfolio site
 
 ---
 
-## Domain Expertise Behind This Project
+## Why I Built This
 
-This framework was built from real enterprise AI enablement experience:
+I led change-management work for an enterprise learning series and supported Copilot learning activities. The series recorded 34 sessions, 1,412 registrations, and 1,019 attendees, with average satisfaction of 2.91 out of 3. Those are participation and satisfaction measures for the whole series, not measured productivity gains or AI use.
 
-- Designed and ran a 34-session AI enablement program (TechSmart) across 9 sites with 1,019 attendees
-- Achieved 72% skill conversion rate, 3.0/3.0 CSAT, and 380% YoY growth in voluntary learning hours
-- Built 500+ enterprise AI prompts across Microsoft 365 Copilot use cases
-- 90%+ completion rate on high-volume training tracks
-
-The metrics, benchmarks, and scoring model in this framework reflect what actually predicts sustained adoption — not what looks good in a dashboard.
+That work showed me how easy it is to count attendance and how hard it is to know whether people's work changed. This framework is my attempt to define the measures I'd want in place from the start.
 
 ---
 
@@ -210,8 +205,6 @@ The metrics, benchmarks, and scoring model in this framework reflect what actual
 
 - [process-waste-detector](https://github.com/Automater89/process-waste-detector) — Lean waste analysis using Azure OpenAI
 - [benefits-faq-agent](https://github.com/Automater89/benefits-faq-agent) — RAG-based HR benefits Q&A agent
-- [azure-doc-agent](https://github.com/Automater89/azure-doc-agent) — Document extraction and agent workflow pipeline
-- [Agent Showcase](https://automater89.github.io/Agent-Showcase/) — Live portfolio of AI and automation projects
 
 ---
 
